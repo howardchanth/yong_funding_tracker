@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "asOf": "2026-11-24",
-  "workbookSha256": "f92ca9e14bb2faf28d8d98802a2989584b4bfcc00c6e9ba1224d70d8681ce0a7",
+  "workbookSha256": "6d5b95bd2799fce26373a973eba3fe26ee0eccd93f596179fbb302081b6c86ef",
   "cadence": "Every other Tuesday at 9:00 a.m. America/New_York",
   "weights": [
     {
@@ -564,13 +564,13 @@
       "title": "Alzheimer’s Association LSSTF",
       "status": "Watch",
       "rank": null,
-      "score": 50,
-      "nextDate": null,
-      "dateType": "Required query; date conflict",
+      "score": 56,
+      "nextDate": "2026-12-15",
+      "dateType": "Required query; cutoff unverified",
       "deadlineAlert": "Watch",
       "change": "New",
       "rankChange": null,
-      "action": "Keep unranked. Verify the query cutoff and consortium eligibility, at-risk costs and one-year transition plan before considering this route. No query or invitation is assumed.",
+      "action": "Keep unranked. Assess consortium eligibility, at-risk costs and a one-year transition plan before the December 15 query date; confirm the cutoff time. No query or invitation is assumed.",
       "verified": "2026-11-24",
       "sponsor": "Alzheimer's Association",
       "officialTitle": "Large-Scale Science Transition Funding Program (LSSTF) — 2026 query round",
@@ -580,7 +580,7 @@
       "opens": "2026-10-19",
       "loi": null,
       "fullDeadline": null,
-      "timing": "No single cutoff adopted. Sponsor index lists December 1, 5 pm Eastern; linked RFA accepts queries through December 15 without a cutoff time. Program page gives no query closing date. Full application due six weeks after invitation.",
+      "timing": "RFA accepts pre-submission queries through December 15, 2026; exact cutoff time/time zone not specified. Current program/index gives an opening date only. Full application due six weeks after invitation.",
       "amount": 1000000,
       "budgetBasis": "Awards $200,000–$1m for up to 12 months; no indirect costs. Supports continuity during a defined transition, not new science or expansion.",
       "maxYears": 1,
@@ -588,13 +588,13 @@
         "research": 4,
         "methods": 2,
         "distinctness": 2,
-        "runway": 0
+        "runway": 2
       },
       "concept": "Assess continuity support for the existing dementia data ecosystem only if the underlying consortium has a documented transition need.",
       "overlap": "Existing-award continuity is the purpose. Identify unfunded costs and avoid duplicate support; the consortium lead institution and current award status must be checked.",
       "source": "https://www.alz.org/research/for_researchers/grants/types-of-grants/large-scale-science-transition-funding-program",
       "additionalSource": "https://www.alz.org/getmedia/08c4e8d7-e0e1-4ccf-9983-d68a77e070b0/lsstf-rfa.pdf",
-      "evidence": "Newly tracked November 24, not newly announced. Official program/RFA read; eligibility and timing remain unresolved. Index December 1 conflicts with RFA December 15, so Watch/Unverified, no exact next date or rank. No evidence establishes a PennCIL funding gap.",
+      "evidence": "Newly tracked November 24, not newly announced. RFA accepts queries through December 15; current primary index supersedes an earlier stale December 1 indexed snippet. Eligibility and cutoff time remain unverified, so Watch and unranked. No evidence establishes a PennCIL funding gap.",
       "expires": null
     },
     {
